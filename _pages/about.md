@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## I am a graduate student in Mathematics. I am mainly interested in Number Theory and allied areas.
