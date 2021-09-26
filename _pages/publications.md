@@ -9,6 +9,6 @@ author_profile: true
 * Economic and Technical Modeling of the Lebanese Crypto Currency: Implication for a Digital-Lira (DL)
 (with Bassam Hamdar and Tarek Saad), International Journal of Business Administration, vol. 12, no. 2
 (2021)
-• Economic Analysis of the Negative Interest Rate Policy (NIRP) on Asset Price Inflation: The Case of
+* Economic Analysis of the Negative Interest Rate Policy (NIRP) on Asset Price Inflation: The Case of
 the Eurozone (with Bassam Hamdar and Yamen Skheita), International Journal of Economics,
 Commerce and Management, vol. VIII, issue 10 (2020)
