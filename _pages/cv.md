@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-**M.S. in Mathematics** |
+**Master of Science in Mathematics** |
 American University of Beirut, 2019-2021
 
-**B.S. in Mathematics** |
+**Bachelor of Science in Mathematics** |
 Lebanese University, 2016-2019
 
 
