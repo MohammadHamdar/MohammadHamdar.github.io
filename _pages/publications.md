@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* The Riemann Hypothesis for Period Polynomials of Modular and Hilbert Modular Forms, Master Thesis, American University of Beirut, (2021)
+* The Riemann Hypothesis for Period Polynomials of Modular and Hilbert Modular Forms, Master Thesis, American University of Beirut ScholarWorks (2021)
 
 * Economic and Technical Modeling of the Lebanese Crypto Currency: Implication for a Digital-Lira (DL)
 (with Bassam Hamdar and Tarek Saad), International Journal of Business Administration, vol. 12, no. 2
