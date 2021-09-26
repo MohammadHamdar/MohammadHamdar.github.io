@@ -11,8 +11,8 @@ redirect_from:
 You can download a more detailed PDF of my CV [here](/files/CV.pdf).
 
 
-Education
-======
+# Education
+
 **Master of Science in Mathematics** |
 American University of Beirut, 2019-2021
 
