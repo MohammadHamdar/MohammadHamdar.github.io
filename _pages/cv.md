@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,10 +18,10 @@ Education
 Work experience
 ======
 
-Research Assistant 
-======
+   Research Assistant
+   =
 
-  * Suliman S. Olayan School of Business and Center for Advanced Mathematical Sciences, American University of Beirut, Aug 2021-Present
+     * Suliman S. Olayan School of Business and Center for Advanced Mathematical Sciences, American University of Beirut, Aug 2021-Present
     * Worked with Dr. Victor Araman on specific topics in the field of Operations Research.
   
 
