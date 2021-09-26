@@ -17,7 +17,7 @@ Education
 
 # Work experience
 
- ## Research Assistant
+ **Research Assistant** |
   Suliman S. Olayan School of Business and Center for Advanced Mathematical Sciences, American University of Beirut, Aug 2021-Present
    * Worked with Dr. Victor Araman on specific topics in the field of Operations Research.
   
