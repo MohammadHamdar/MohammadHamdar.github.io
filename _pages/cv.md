@@ -22,17 +22,9 @@ Education
    * Worked with Dr. Victor Araman on specific topics in the field of Operations Research.
   
 
- Graduate Teaching Assistant
-  Department of Mathematics, American University of Beirut, 2019-2021
+ **Graduate Teaching Assistant** |
+ Department of Mathematics, American University of Beirut, 2019-2021
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -51,7 +43,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
