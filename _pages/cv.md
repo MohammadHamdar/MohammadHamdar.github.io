@@ -24,7 +24,7 @@ Lebanese University, 2016-2019
 
  **Research Assistant** | 
  Olayan School of Business, American University of Beirut, Aug 2021-Present
-   * Worked with Dr. Victor Araman on specific topics in the theory of Sequential Analysis.
+   * Worked with Dr. Victor Araman on certain topics in the theory of Sequential Analysis.
   
 
  **Graduate Teaching Assistant** |
