@@ -8,9 +8,6 @@ author_profile: true
 
 # Other
 
-* Economic and Technical Modeling of the Lebanese Crypto Currency: Implication for a Digital-Lira (DL)
-(with Bassam Hamdar and Tarek Saad), International Journal of Business Administration, vol. 12, no. 2
-(2021)
-* Economic Analysis of the Negative Interest Rate Policy (NIRP) on Asset Price Inflation: The Case of
-the Eurozone (with Bassam Hamdar and Yamen Skheita), International Journal of Economics,
-Commerce and Management, vol. VIII, issue 10 (2020)
+* An Econometric Approach to Assess the Impact of Negative Interest Rate Policy (NIRP) on Real Estate Price Inflation in the Eurozone (with Bassam Hamdar and Yaman Skheita), Economics. Vol. 11, No. 1 (2022)
+* Economic and Technical Modeling of the Lebanese Crypto Currency: Implication for a Digital-Lira (DL) (with Bassam Hamdar and Tarek Saad), International Journal of Business Administration, vol. 12, no. 2 (2021)
+* Economic Analysis of the Negative Interest Rate Policy (NIRP) on Asset Price Inflation: The Case of the Eurozone (with Bassam Hamdar and Yamen Skheita), International Journal of Economics, Commerce and Management, vol. VIII, issue 10 (2020)
