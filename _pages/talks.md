@@ -5,7 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Maximum Principles for Elliptic Operators, American University of Beirut, May 12, 2021 ([slides](</talks/Projectslides.pdf>)).
+*Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 17, 2021 ([slides](</talks/FinalPresention.pdf>))
 
-* The Riemann Hypothesis for Period Polynomials of Modular and Hilbert Modular
+* Maximum Principles for Elliptic Operators, American University of Beirut, May 12, 2021 ([slides](</talks/Projectslides.pdf>))
+
+* The Riemann Hypothesis for Period Polynomials of Classical and Hilbert Modular
 Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Slides.pdf))
