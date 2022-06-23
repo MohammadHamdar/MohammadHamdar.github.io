@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-*Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 17, 2021 ([slides](</talks/FinalPresention.pdf>))
+* Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 17, 2021 ([slides](</talks/FinalPresentation.pdf>))
 
 * Maximum Principles for Elliptic Operators, American University of Beirut, May 12, 2021 ([slides](</talks/Projectslides.pdf>))
 
