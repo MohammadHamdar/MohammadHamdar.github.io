@@ -13,6 +13,9 @@ You can download a PDF of my CV [here](/files/CVV.pdf).
 
 # Education
 
+**PhD in Mathematics** |
+Concordia University, 2023-Present
+
 **Master of Science in Mathematics** |
 American University of Beirut, 2019-2021
 
@@ -20,10 +23,14 @@ American University of Beirut, 2019-2021
 Lebanese University, 2016-2019
 
 
-# Work experience
+# Work Experience
 
  **Research Assistant** | 
- Olayan School of Business, American University of Beirut, Aug 2021-Present
+ Department of Mathematics, American University of Beirut, 2022-2023
+
+
+ **Research Assistant** | 
+ Olayan School of Business, American University of Beirut, 2021-2022
   
 
  **Graduate Teaching Assistant** |
