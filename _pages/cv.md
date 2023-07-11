@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF of my CV [here](/files/CVV.pdf).
+You can download a (hopefully updated) PDF of my CV [here](/files/CV_hamdar_short.pdf).
 
 
 # Education
