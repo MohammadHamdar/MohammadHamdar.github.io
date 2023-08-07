@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a (hopefully updated) PDF of my CV [here](/files/CV_hamdar_short.pdf).
+You can download a (hopefully updated) PDF of my CV [here](https://drive.google.com/file/d/1H8ZDikWyNEJnDURye8QalC7HOZanIVX0/view?usp=drive_link).
 
 
 # Education
