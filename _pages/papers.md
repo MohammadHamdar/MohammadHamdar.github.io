@@ -4,7 +4,7 @@ title: ""
 permalink: /papers/
 author_profile: true
 ---
-* Number of Rational Points of the Curve $y^{q^n}-y= \gamma x^{p^h+1}-\alpha$ over $\mathbb{F}_{q^m}$} (with Farzin Azar, Hasan Bilgili, Beyza Cepni, and Sercan Yılmaz), Report from the research group of the 2022 SuSAAN summer school
+* Number of Rational Points of the Curve $y^{q^n}-y= \gamma x^{p^h+1}-\alpha$ over $\mathbb{F}_{q^m}$ (with Farzin Azar, Hasan Bilgili, Beyza Cepni, and Sercan Yılmaz), Report from the research group of the 2022 SuSAAN summer school
 
 * [The Riemann Hypothesis for Period Polynomials of Modular and Hilbert Modular Forms](/papers/MyMasterThesis.pdf), Master Thesis, American University of Beirut ScholarWorks (2021)
 
