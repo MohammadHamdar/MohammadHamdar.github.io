@@ -14,7 +14,7 @@ You can download a (hopefully updated) PDF of my CV [here](/files/CV_hamdar_shor
 # Education
 
 **PhD in Mathematics** |
-CICMA, 2023-Present
+Concordia University, 2023-Present
 
 **Master of Science in Mathematics** |
 American University of Beirut, 2019-2021
