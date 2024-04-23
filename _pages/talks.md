@@ -15,6 +15,6 @@ Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Sli
 # Expository Talks
 
 * Fourier Analysis on Finite Groups, Concordia, April 2024
-* Modularity, Level Lowering, and the proof of Fermat's Last Theorem, Universite de Montreal, April 2024
-* Hecke L-functions: Functional Equation and Analytic Continuation, McGill, December 2023
+* Modularity, Level Lowering, and the proof of Fermat's Last Theorem, Universite de Montreal, April 2024 ([slides](/talks/FLT.pdf))
+* Hecke L-functions: Functional Equation and Analytic Continuation, McGill, December 2023 (most of this talk was on board and I then used these slides at the end: [slides](/talks/FunctionalEquation.pdf))
 * Dobrowolski's lower bound for heights of algebraic numbers, Concordia, December 2023
