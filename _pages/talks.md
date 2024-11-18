@@ -7,6 +7,8 @@ author_profile: true
 
 # Research Talks
 
+* Hecke $L$-functions away from the central point, The M\"{o}bius Ant Seminar, Universite de Montreal, November 7, 2024
+
 * Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 17, 2022 ([slides](</talks/FinalPresentation.pdf>))
 
 * The Riemann Hypothesis for Period Polynomials of Classical and Hilbert Modular
