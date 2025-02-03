@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-**Concordia University**
- * Winter 2024: Tutorial for Math 201 Calculus
 
 **American University of Beirut**
 
