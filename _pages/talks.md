@@ -22,3 +22,4 @@ Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Sli
 * Modularity, Level Lowering, and the proof of Fermat's Last Theorem, Universite de Montreal, April 2024 ([slides](/talks/FLT.pdf))
 * Hecke L-functions: Functional Equation and Analytic Continuation, McGill, December 2023 (most of this talk was on blackboard but at the end I used these [slides](/talks/FunctionalEquation.pdf))
 * Dobrowolski's lower bound for heights of algebraic numbers, Concordia, December 2023
+* Fibre Products of Artin-Schreier Curves, Nesin Mathematics Village, June 2022
