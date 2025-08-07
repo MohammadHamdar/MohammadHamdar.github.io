@@ -7,6 +7,8 @@ author_profile: true
 
 # Research Talks
 
+* Hecke $L$-functions Away From the Central Line, 33èmes Journées Arithmétiques, University of Luxembourg, July 3, 2025
+
 * Hecke $L$-functions Away From the Central Point, The Mobius Ant Seminar, Universite de Montreal, November 7, 2024
 
 * Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 17, 2022 ([slides](</talks/FinalPresentation.pdf>))
@@ -16,6 +18,8 @@ Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Sli
 
 # Expository Talks
 
+* Quantum Modular Forms and the Bettin-Drappeau Theorem, Universite de Montreal, June 2025
+* Equidistribution of Periods of Modular Forms, Concordia, May 2025
 * Chowla's Conjecture is False over Function Fields (with Devang Agarwal), Concordia, December 2024
 * Fourier Analysis on Finite Groups and Heisenberg Uncertainity Principles, Concordia, April 2024
 * Modularity, Level Lowering, and the proof of Fermat's Last Theorem, Universite de Montreal, April 2024 ([slides](/talks/FLT.pdf))
