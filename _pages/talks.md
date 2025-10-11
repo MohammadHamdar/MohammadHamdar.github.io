@@ -7,9 +7,10 @@ author_profile: true
 
 # Research Talks
 
-* Hecke $L$-functions Away From the Central Line, 33èmes Journées Arithmétiques, University of Luxembourg, July 3, 2025
-* Hecke $L$-functions Away From the Central Point, The Mobius Ant Seminar, Universite de Montreal, November 7, 2024
-* Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 17, 2022 ([slides](</talks/FinalPresentation.pdf>))
+* Hecke $L$-functions Away From the Central Line, 2025 Maine-Quebec Number Theory Conference, University of Maine, Oct 2025
+* Hecke $L$-functions Away From the Central Line, 33èmes Journées Arithmétiques, University of Luxembourg, July 2025
+* Hecke $L$-functions Away From the Central Point, The Mobius Ant Seminar, Universite de Montreal, November 2024
+* Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 2022 ([slides](</talks/FinalPresentation.pdf>))
 * The Riemann Hypothesis for Period Polynomials of Classical and Hilbert Modular
 Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Slides.pdf))
 
