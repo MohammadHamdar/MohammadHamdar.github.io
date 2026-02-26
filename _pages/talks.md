@@ -7,6 +7,7 @@ author_profile: true
 
 # Research Talks
 
+* Average Values of $L$-functions Anywhere in the Critical Strip, Stanford Analytic Number Theory Seminar, Stanford University, Feb 2026
 * Hecke $L$-functions Away From the Central Line, 2025 Maine-Quebec Number Theory Conference, University of Maine, Oct 2025
 * Hecke $L$-functions Away From the Central Line, 33èmes Journées Arithmétiques, University of Luxembourg, July 2025
 * Hecke $L$-functions Away From the Central Point, The Mobius Ant Seminar, Universite de Montreal, November 2024
