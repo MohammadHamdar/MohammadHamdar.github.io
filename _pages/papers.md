@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-* [Joint Sato-Tate Laws for Transformations of Hecke Eigenvalues: The Vertical Case](https://arxiv.org/pdf/2604.24753) (with Tian Wang), preprint, 47pp.
+* [Joint Sato-Tate Laws for Transformations of Hecke Eigenvalues: The Vertical Case](https://arxiv.org/pdf/2604.24753) (with Tian Wang), submitted, 47pp.
 
 * [Hecke $L$-functions Away from the Central Line](https://link.springer.com/article/10.1007/s00208-026-03341-8), Mathematische Annalen 394, 74 (2026), 46pp.
 
