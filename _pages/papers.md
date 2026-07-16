@@ -5,6 +5,8 @@ permalink: /papers/
 author_profile: true
 ---
 
+* [Ranks of Elliptic Curves Twisted by Quadratic Forms](https://arxiv.org/pdf/2607.13000) (with Cihan Sabuncu), 21pp.
+
 * [Joint Sato-Tate Laws for Transformations of Hecke Eigenvalues: The Vertical Case](https://arxiv.org/pdf/2604.24753v2) (with Tian Wang), submitted, 49pp.
 
 * [Hecke $L$-functions Away from the Central Line](https://link.springer.com/article/10.1007/s00208-026-03341-8), Mathematische Annalen 394, 74 (2026), 46pp. [arXiv](https://arxiv.org/pdf/2509.06152)
