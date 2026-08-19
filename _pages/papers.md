@@ -7,9 +7,9 @@ author_profile: true
 
 * [Ranks of Elliptic Curves Twisted by Quadratic Forms](https://arxiv.org/pdf/2607.13000) (with Cihan Sabuncu), submitted, 21pp.
 
-* [Sato-Tate Laws for Transformations of Hecke Eigenvalues: The Vertical Case](https://arxiv.org/pdf/2604.24753v2) (with Tian Wang), submitted, 49pp.
+* [Distribution Laws for Transformations of Multiple Hecke Eigenvalues: The Vertical Case](https://arxiv.org/pdf/2604.24753v2) (with Tian Wang), submitted, 51pp.
 
-* [Hecke $L$-functions Away from the Central Line](https://link.springer.com/article/10.1007/s00208-026-03341-8), Mathematische Annalen 394, 74 (2026), 46pp. [arXiv](https://arxiv.org/pdf/2509.06152)
+* [Hecke $L$-functions Away from the Central Line](https://link.springer.com/article/10.1007/s00208-026-03341-8), Mathematische Annalen 394, 74 (2026), 46pp. [[arXiv]](https://arxiv.org/pdf/2509.06152)
 
 * Number of Rational Points of the Curve $y^{q^n}-y= \gamma x^{p^h+1}-\alpha$ over $\mathbb{F}_{q^m}$ (with Farzin Azar, Hasan Bilgili, Beyza Cepni, and Sercan Yılmaz), Report from the research group of the 2022 SuSAAN summer school
 
