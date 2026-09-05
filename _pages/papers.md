@@ -7,7 +7,7 @@ author_profile: true
 
 * [Ranks of Elliptic Curves Twisted by Quadratic Forms](https://arxiv.org/pdf/2607.13000) (with Cihan Sabuncu), submitted, 21pp.
 
-* [Distribution Laws for Transformations of Multiple Hecke Eigenvalues: The Vertical Case](https://arxiv.org/pdf/2604.24753v2) (with Tian Wang), submitted, 51pp.
+* [Distribution Laws for Transformations of Multiple Hecke Eigenvalues: The Vertical Case](/papers/HamdarWang_DistributionLaws.pdf) (with Tian Wang), submitted, 52pp.
 
 * [Hecke $L$-functions Away from the Central Line](https://link.springer.com/article/10.1007/s00208-026-03341-8), Mathematische Annalen 394, 74 (2026), 46pp. [[arXiv]](https://arxiv.org/pdf/2509.06152)
 
