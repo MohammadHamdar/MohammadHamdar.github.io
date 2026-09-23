@@ -5,6 +5,8 @@ permalink: /papers/
 author_profile: true
 ---
 
+*[Extreme values of central $L$-derivatives and heights of Heegner points](https://arxiv.org/pdf/2609.26786) (with Sun-Kai Leung), submitted
+
 * [Ranks of Elliptic Curves Twisted by Quadratic Forms](https://arxiv.org/pdf/2607.13000) (with Cihan Sabuncu), submitted, 21pp.
 
 * [Distribution Laws for Transformations of Multiple Hecke Eigenvalues: The Vertical Case](/papers/HamdarWang_DistributionLaws.pdf) (with Tian Wang), submitted, 52pp.
