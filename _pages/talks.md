@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Research Talks
+## Research Talks
 
 * Ranks of Elliptic Curves Twisted by Quadratic Forms, 2026 Qu'{e}bec-Maine Number Theory
 Conference, Universit'{e} Laval, October 2026
@@ -22,7 +22,7 @@ Conference, Universit'{e} Laval, October 2026
 * The Riemann Hypothesis for Period Polynomials of Classical and Hilbert Modular
 Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Slides.pdf))
 
-# Expository Talks
+## Expository Talks
 
 * Quantum Modular Forms and the Bettin-Drappeau Theorem, Universite de Montreal, June 2025
 * Equidistribution of Periods of Modular Forms, Concordia, May 2025
