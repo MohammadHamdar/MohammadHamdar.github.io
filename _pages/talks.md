@@ -7,6 +7,9 @@ author_profile: true
 
 # Research Talks
 
+* Ranks of Elliptic Curves Twisted by Quadratic Forms, 2026 Qu'{e}bec-Maine Number Theory
+Conference, Universit'{e} Laval, October 2026
+* Distribution Laws for Transformations of Multiple Hecke Eigenvalues, The Mobius Ant Seminar, Universit'{e} de Montr'{e}al, October 2026
 * Ranks of Elliptic Curves Twisted by Thin Sets, Arithmetic, L-functions, and Pseudorandomness workshop at the Banff International Research Station (BIRS), Alberta, September 2026
 * Ranks of Elliptic Curves Twisted by Quadratic Forms, FOUVRY–73, EPFL, Lausanne, August 2026
 * Ranks of Elliptic Curves Twisted by Thin Sets, Probability in Number Theory Seminar, Centre de Recherches Mathématiques, June 2026
