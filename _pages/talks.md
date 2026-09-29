@@ -7,9 +7,9 @@ author_profile: true
 
 ## Research Talks
 
-* Ranks of Elliptic Curves Twisted by Quadratic Forms, 2026 Qu'{e}bec-Maine Number Theory
-Conference, Universit'{e} Laval, October 2026
-* Distribution Laws for Transformations of Multiple Hecke Eigenvalues, The Mobius Ant Seminar, Universit'{e} de Montr'{e}al, October 2026
+* Ranks of Elliptic Curves Twisted by Quadratic Forms, 2026 Quebec-Maine Number Theory
+Conference, Universite Laval, October 2026
+* Distribution Laws for Transformations of Multiple Hecke Eigenvalues, The Mobius Ant Seminar, Universite de Montreal, October 2026
 * Ranks of Elliptic Curves Twisted by Thin Sets, Arithmetic, L-functions, and Pseudorandomness workshop at the Banff International Research Station (BIRS), Alberta, September 2026
 * Ranks of Elliptic Curves Twisted by Quadratic Forms, FOUVRY–73, EPFL, Lausanne, August 2026
 * Ranks of Elliptic Curves Twisted by Thin Sets, Probability in Number Theory Seminar, Centre de Recherches Mathématiques, June 2026
@@ -17,7 +17,7 @@ Conference, Universit'{e} Laval, October 2026
 * Average Values of $L$-functions Inside the Critical Strip, Stanford Analytic Number Theory Seminar, Stanford University, Feb 2026
 * Hecke $L$-functions Away From the Central Line, 2025 Maine-Quebec Number Theory Conference, University of Maine, Oct 2025
 * Hecke $L$-functions Away From the Central Line, 33èmes Journées Arithmétiques, University of Luxembourg, July 2025
-* Hecke $L$-functions Away From the Central Point, The Mobius Ant Seminar, Universit'{e} de Montr'{e}al, November 2024
+* Hecke $L$-functions Away From the Central Point, The Mobius Ant Seminar, Universite de Montreal, November 2024
 * Counting Rational Points on Supersingular Curves, Nesin Mathematics Village, June 2022 ([slides](</talks/FinalPresentation.pdf>))
 * The Riemann Hypothesis for Period Polynomials of Classical and Hilbert Modular
 Forms, American University of Beirut, April 27, 2021 ([slides](/talks/Thesis-Slides.pdf))
