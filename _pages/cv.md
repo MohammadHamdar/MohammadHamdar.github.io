@@ -11,7 +11,7 @@ redirect_from:
 You can download a (hopefully updated) PDF of my CV [here](/files/CV_hamdar_short.pdf).
 
 
-# Education
+## Education
 
 **Master of Science in Mathematics** |
 American University of Beirut, 2019-2021
@@ -20,7 +20,7 @@ American University of Beirut, 2019-2021
 Lebanese University, 2016-2019
 
 
-# Work Experience
+## Work Experience
 
  **Research Assistant** | 
  Department of Mathematics, American University of Beirut, 2022-2023
