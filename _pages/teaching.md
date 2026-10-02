@@ -9,7 +9,7 @@ author_profile: true
 
 ### Concordia University
 
-* Math 206: Algebra and Functions (Instructor, Winter 2026)
+* Math 206: Algebra and Functions (Instructor, Winter 2027)
 * Math 206: Algebra and Functions (Tutorial, Fall 2026)
 * MAST 324: Introduction to Optimization (Grader, Winter 2026)
 * Math 204: Linear Algebra (Instructor, Fall 2025)
